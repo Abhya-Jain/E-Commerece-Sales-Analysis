@@ -1,4 +1,5 @@
-# Analyzed retail store sales data to uncover key insights about product performance, profit trends, and customer segments using Python and data visualization tools.
+# E-Commerce-Sales-Analysis
+Analyzed retail store sales data to uncover key insights about product performance, profit trends, and customer segments using Python and data visualization tools.
 
 ## 📊 Project Overview
 This project analyzes and visualizes retail store sales data to extract actionable insights. The goal is to support strategic decision-making by identifying trends and patterns in sales, profit, and customer behavior.
