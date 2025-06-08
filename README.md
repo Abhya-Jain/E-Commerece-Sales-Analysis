@@ -1,5 +1,3 @@
-# E-Commerce-Sales-Analysis
-
 # Analyzed retail store sales data to uncover key insights about product performance, profit trends, and customer segments using Python and data visualization tools.
 
 ## 📊 Project Overview
