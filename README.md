@@ -19,8 +19,3 @@ This project analyzes and visualizes retail store sales data to extract actionab
 - Plotly
 - Jupyter Notebook
 
-## 📁 Files Included
-- `ecommerce_sales_analysis.ipynb` – Main Jupyter notebook with all analysis and visualizations.
-- `ecommerce_data.csv` – Sample dataset (replace with your own data).
-- `README.md` – Project documentation.
-
